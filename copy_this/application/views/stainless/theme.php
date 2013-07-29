@@ -15,8 +15,9 @@
  * You should have received a copy of the GNU General Public License
  * along with OXID eShop Community Edition.  If not, see <http://www.gnu.org/licenses/>.
  *
- * @link		http://imva.biz/stainless
- * @copyright	(C) imva.biz
+ * @link		http://imva.biz/stainless/
+ * @copyright	Matthias Labsch
+ * @copyright	Johannes Ackermann (imva.biz)
  * @version		0.1
  */
 
@@ -29,5 +30,5 @@ $aTheme = array(
     'description'  => 'JAML Stainless Theme for OXID eShop',
     'thumbnail'    => 'theme.jpg',
     'version'      => '0.1',
-    'author'       => 'JAML',
+    'author'       => 'Matthias Labsch, Johannes Ackermann',
 );
